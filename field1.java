@@ -3,7 +3,7 @@ import javax.swing.JFrame;
 
 		public class field1 extends JFrame {
 		    public field1() {
-		//создается элемент класса, производный от класс  Jpanel
+		//Г±Г®Г§Г¤Г ГҐГІГ±Гї ГЅГ«ГҐГ¬ГҐГ­ГІ ГЄГ«Г Г±Г±Г , ГЇГ°Г®ГЁГ§ГўГ®Г¤Г­Г»Г© Г®ГІ ГЄГ«Г Г±Г±  Jpanel
 		        add(new Board());   // 2
 		        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // 4
 		        setSize(940, 830);
@@ -15,14 +15,6 @@ import javax.swing.JFrame;
 		    public static void main(String[] args) {
 		        new field1();  // 1
 		    }
-		
-
-		
-		
-		
-		
-		
-		
-	}
+			}
 
 
