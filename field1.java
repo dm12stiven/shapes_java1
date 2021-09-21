@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 		        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // 4
 		        setSize(940, 830);
 		        setLocationRelativeTo(null);
-		        setTitle("Donut");
+		        setTitle("Shariki");
 		        setVisible(true);
 		    }
 
